@@ -1,0 +1,6 @@
+{
+  "name": "LogiPulse - Unified Courier Platform",
+  "description": "Multi-role courier platform with unified real-time state for User, Rider, and Admin interfaces.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
